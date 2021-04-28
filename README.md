@@ -1,2 +1,2 @@
-# Subdomain-Takeover
+# Sample
 Test for Subdomain Takeover
